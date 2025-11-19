@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [16.4.0](https://github.com/Wolfsrudel/devops-topgrade/compare/v16.3.0...v16.4.0) - 2025-11-19
+
+### Added
+
+- *(os)* add Origami Linux support ([#1530](https://github.com/Wolfsrudel/devops-topgrade/pull/1530))
+- *(containers)* add option to run `system prune` ([#1523](https://github.com/Wolfsrudel/devops-topgrade/pull/1523))
+
+### Other
+
+- *(deps)* lock file maintenance ([#1505](https://github.com/Wolfsrudel/devops-topgrade/pull/1505))
+- *(deps)* update actions/checkout digest to 93cb6ef ([#1526](https://github.com/Wolfsrudel/devops-topgrade/pull/1526))
+- *(deps)* update actions/checkout action to v5.0.1 ([#1527](https://github.com/Wolfsrudel/devops-topgrade/pull/1527))
+
 ## [16.3.0](https://github.com/topgrade-rs/topgrade/compare/v16.2.1...v16.3.0) - 2025-11-16
 
 ### Added
